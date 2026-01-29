@@ -1,5 +1,10 @@
 # 💫 About Me:
-Machine Learning and Data Science<br>Open-source projects related to AI for social good or educational tech<br>Advanced Mathematics for Machine Learning<br>Deep Learning<br>Python and its libraries like pandas , numpy , seaborn , scikit learn<br>
+🔭 I’m currently working on
+Machine Learning and Data Science projects, focusing on building intelligent solutions and data-driven insights.<br>👯 I’m looking to collaborate on
+Open-source projects related to AI for social good or educational tech.<br>🤝 I’m looking for help with
+Mastering Advanced Mathematics for Machine Learning to deepen my theoretical foundation.<br>🌱 I’m currently learning
+The complexities of Deep Learning architectures and advanced neural networks.<br>.💬 Ask me about
+Python and its powerful ecosystem, including pandas, numpy, seaborn, and scikit-learn.<br>
 
 
 ## 🌐 Socials:
